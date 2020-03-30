@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProyectoSemestral</string>
+    <string name="home">Fast Food</string>
+    <string name="sobreNosotros">Fast Food</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="detalles">Detalle Sandwich</string>
+    <string name="logo">Logo Fast Food</string>
+    <string name="button_sandwiches">SANDWICHES</string>
+    <string name="button_sobre_nosotros">SOBRE NOSOTROS</string>
+    <string name="descripcion">SOMOS UNA EMPRESA DE LA REGIÓN CON MÁS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES! LOS MEJORES DE LA ZONA, SI NO CHORREA NO ES FAST FOOD!!</string>
+    <string name="rowtext">EXAMPLE</string>
+    <string name="imageExample">IMAGE</string>
+    <string name="dnombre">Nombre</string>
+    <string name="ddescrip">Descripcion</string>
+    <string name="dprecioN">$9999</string>
+    <string name="precio">PRECIO:</string>
+</resources>
